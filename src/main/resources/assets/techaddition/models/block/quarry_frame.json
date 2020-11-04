@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"particle": "techaddition:block/metal_plate",
+		"north": "techaddition:block/quarry_frame_side",
+		"south": "techaddition:block/quarry_frame_side",
+		"east": "techaddition:block/quarry_frame_side",
+		"west": "techaddition:block/quarry_frame_side",
+		"up": "techaddition:block/metal_plate",
+		"down": "techaddition:block/quarry_frame_bottom"
+	}
+}

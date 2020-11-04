@@ -1,0 +1,16 @@
+{
+	"variants": {
+		"facing=east": {
+			"model": "techaddition:block/quarry_core_invalid", "y": 90
+		},
+		"facing=north": {
+			"model": "techaddition:block/quarry_core_invalid"
+		},
+		"facing=south": {
+			"model": "techaddition:block/quarry_core_invalid", "y": 180
+		},
+		"facing=west": {
+			"model": "techaddition:block/quarry_core_invalid", "y": 270
+		}
+	}
+}
